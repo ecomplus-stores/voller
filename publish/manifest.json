@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.53d72591dff6233e8d94ee220cd7b45c.webp",
+      "sizes": "512x512",
+      "type": "image/webp"
+    },
+    {
+      "src": "/icon_384x384.53d72591dff6233e8d94ee220cd7b45c.webp",
+      "sizes": "384x384",
+      "type": "image/webp"
+    },
+    {
+      "src": "/icon_192x192.53d72591dff6233e8d94ee220cd7b45c.webp",
+      "sizes": "192x192",
+      "type": "image/webp"
+    },
+    {
+      "src": "/icon_128x128.53d72591dff6233e8d94ee220cd7b45c.webp",
+      "sizes": "128x128",
+      "type": "image/webp"
+    },
+    {
+      "src": "/icon_96x96.53d72591dff6233e8d94ee220cd7b45c.webp",
+      "sizes": "96x96",
+      "type": "image/webp"
+    }
+  ],
+  "name": "Voller Manie",
+  "short_name": "Voller Manie",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Sua loja de T-Shirt no atacado de excelência no Brasil com as melhores ofertas e qualidade. ",
+  "background_color": "#ffffff",
+  "theme_color": "#a5003c"
+}
