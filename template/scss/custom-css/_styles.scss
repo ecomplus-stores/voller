@@ -258,3 +258,17 @@ display: none
 #product-actions .prices__discount span {
   font-size: 1rem !important;
 }
+.products-carousel__title::after {
+  background: #dee2e6;
+  content: " ";
+  height: 1px;
+  left: 10%;
+  margin-top: -.05rem;
+  position: absolute;
+  top: 50%;
+  width: 80%;
+}
+.products-carousel__title a {
+  background: #fff !important;
+  z-index: 9
+}
