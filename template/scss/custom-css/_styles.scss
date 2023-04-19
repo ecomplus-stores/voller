@@ -258,7 +258,8 @@ display: none
 #product-actions .prices__discount span {
   font-size: 1rem !important;
 }
-.products-carousel__title::after {
+.products-carousel__title {
+  &::after {
   background: #dee2e6;
   content: " ";
   height: 1px;
@@ -267,8 +268,10 @@ display: none
   position: absolute;
   top: 50%;
   width: 80%;
-}
-.products-carousel__title a {
+ }
+ a, span {
   background: #fff !important;
   z-index: 9 !important;
-}
+ }
+  
+} 
