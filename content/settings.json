@@ -1,5 +1,5 @@
 {
-  "domain": "vollermanie.com.br",
+  "domain": "vollerloja.com.br",
   "currency_symbol": "R$",
   "primary_color": "#a5003c",
   "theme": {
@@ -9,7 +9,7 @@
   "bg_color": "#ffffff",
   "repository": "ecomplus-stores/voller",
   "logo": "/img/uploads/png-5.png",
-  "name": "Voller Manie",
+  "name": "Voller",
   "short_name": "Voller",
   "lang": "pt_br",
   "currency": "BRL",
