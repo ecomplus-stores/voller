@@ -1,8 +1,9 @@
 {
   "shipping": {
     "show": true,
-    "text": "Acima de *R$ 399",
-    "title": "FRETE GRÁTIS"
+    "text": "leia condições",
+    "title": "FRETE GRÁTIS",
+    "link": "https://www.vollerloja.com.br/pages/entrega"
   },
   "installments": {
     "show": true,
