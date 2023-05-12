@@ -37,9 +37,6 @@
         {
           "img": "/img/uploads/promocao.jpg",
           "link": "https://www.vollerloja.com.br/pecas-promocionais"
-        },
-        {
-          "img": "/img/uploads/design-sem-nome.jpg"
         }
       ]
     },
@@ -81,23 +78,6 @@
       "type": "responsive-banner",
       "img": "/img/uploads/banners-mais-curtos-3840-1400-px-2-.jpg",
       "mobile_img": "/img/uploads/banners-mais-curtos-3840-1800-px-2-.jpg"
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/design-sem-nome-3-.jpg"
-        },
-        {
-          "img": "/img/uploads/design-sem-nome-3-.jpg"
-        },
-        {
-          "img": "/img/uploads/design-sem-nome-3-.jpg"
-        },
-        {
-          "img": "/img/uploads/design-sem-nome-3-.jpg"
-        }
-      ]
     }
   ]
 }
