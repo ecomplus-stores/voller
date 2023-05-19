@@ -22,19 +22,6 @@
       ]
     },
     {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": true,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/desktop.jpg",
-          "mobile_img": "/img/uploads/mobile.jpg"
-        }
-      ]
-    },
-    {
       "type": "info-bar",
       "enabled": true
     },
