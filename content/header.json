@@ -25,5 +25,6 @@
   "search_input": true,
   "desktop_megamenu": true,
   "alphabetical_order_submenu": true,
-  "full_width_submenu": false
+  "full_width_submenu": false,
+  "popup": "/img/uploads/1080x1080.jpg"
 }
