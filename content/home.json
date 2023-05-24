@@ -78,6 +78,10 @@
       "type": "responsive-banner",
       "img": "/img/uploads/banners-mais-curtos-3840-1400-px-2-.jpg",
       "mobile_img": "/img/uploads/banners-mais-curtos-3840-1800-px-2-.jpg"
+    },
+    {
+      "type": "custom-content",
+      "markdown": "<iframe width=\"510\" height=\"550\" src=\"https://www.youtube.com/embed/J-Zcd7G3PN0\" title=\"Conjunto Azul Marinho e Pink | Compre no Atacado\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>"
     }
   ]
 }
