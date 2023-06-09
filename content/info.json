@@ -1,9 +1,9 @@
 {
   "shipping": {
     "show": true,
-    "text": "leia condições",
-    "title": "FRETE GRÁTIS",
-    "link": "https://www.vollerloja.com.br/pages/entrega"
+    "text": "por R$ 1,99",
+    "title": "FRETE PROMO",
+    "link": ""
   },
   "installments": {
     "show": true,
