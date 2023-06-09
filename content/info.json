@@ -1,8 +1,8 @@
 {
   "shipping": {
     "show": true,
-    "text": "por R$ 1,99",
-    "title": "FRETE PROMO",
+    "text": "06 peças variadas",
+    "title": "COMECE COM POUCO",
     "link": ""
   },
   "installments": {
@@ -16,7 +16,7 @@
     "title": "USE NOSSAS FOTOS"
   },
   "promo": {
-    "show": true,
+    "show": false,
     "text": "06 peças variadas",
     "title": "COMECE COM POUCO",
     "link": ""
