@@ -1,7 +1,1967 @@
 {
   "hosting": {
     "redirects": [
-    ],
+  {
+    "source": "/produtos/kit-feminino-digital-rosa/",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/conjunto-feminino-cropped-e-saia-longa1/",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/t-shirt-be-the-boss-colorido-branco/",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/kit-feminino-dourado-1668815761/",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/t-shirt-wonder-woman-preto/",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/vestido-feminino-longo/",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/vestido-feminino-de-alcinha-e-elastec/",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/kit-feminino-dourado-a-prova-dagua/",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/vestido-feminino-mostarda/",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/kit-feminino-dourado-1668815761/",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/kit-feminino-digital-azul-marinho/",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/kit-feminino-dourado-2/",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/t-shirt-bob-esponja-e-patrick-laranja/",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/t-shirt-bob-esponja-e-patrick-laranja/",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/t-shirt-bob-esponja-e-patrick-laranja/?variant=588690416",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/kit-feminino-dourado-1668815531/",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/kit-feminino-preto-florido/",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/kit-feminino-preto-florido/",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/conjutos/?Cor=Vermelho",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/vestido-46",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/vestido-feminino-de-alcinha-preto/",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/vestido-feminino-de-alcinha-preto-com-amarracao/",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/kit-feminino-dourado-1668815650/",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/depoimentos/",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/vestido-feminino-de-alcinha-vermelho/",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/kit-feminino-dourado-9/",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/vestido-iolanda-branco-floral/",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/vestido-iolanda-branco-floral/?variant=588691842",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/kit-de-relogios",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/kit-de-relogios/",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/vestido-feminino-mostarda/",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/vestido-marisa-preto-floral/",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/kit-feminino-dourado-00076",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/conjutos/?Cor=F%C3%BAcsia",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/contato",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/t-shirt-wonder-woman-preto/?variant=588691250",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/conjunto-feminino-cropped-e-short-preto/",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/vestido-feminino-preto-com-amarracao/",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/vestido-feminino-preto-com-amarracao/",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/kit-de-relogios/",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/macaquinho-feminino-de-alcinha-preto-e-short-saia-rosa/",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/kit-feminino-branco-florido/",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/macacao-feminino-pantacourt-longo-acinturado/?variant=588818087",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/xicara-corao---vermelho",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/kit-feminino-digital-preto/",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/para-calculo-de-taxas",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/conjunto-branco-com-rosas-estampado-cropped-saia6",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/saida-de-praia-zigue-e-zague",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/vestido-solange-mostarda-floral/",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/conjunto-feminino-cropped-nula-manga-e-saia-vermelho/",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/kit-de-relogios",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/kit-feminino-dourado-1668816162/",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/kit-feminino-rose-2/",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/vestido-feminino-rosa-com-detalhe-preto-e-branco/",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/t-shirt-wonder-woman-preto/?variant=588691254",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/macacao-feminino-longo-acinturado-e-abertura-na-perna/",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/macaquinho-feminino-de-alcinha-preto-com-detalhe-azul/?variant=588818480",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/vestido-vermelho-estampado-2",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/macaquinho-feminino-de-alcinha-preto-com-detalhe-azul/",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/vestido-mariana-pretox/",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/macaquinho-feminino-vinho/",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/macaquinho-feminino-preto-e-short-vermelho/",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/kit-feminino-rose/",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/kit-feminino-digital-rosa/",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/conjunto-feminino-cropped-listrado-e-short-preto/",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/xicara-corao---vermelho",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/kit-feminino-digital-preto-2/",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/conjunto-rosa121",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/vestido-feminino-longo1/",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/conjutos/?Tamanho=%C3%BAnico (veste Do 36 Ao \n42)",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/conjunto-feminino-cropped-listrado-e-short-preto3/",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/conjunto-feminino-cropped-listrado-e-short-preto3/",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/conjunto-feminino-cropped-rosa-com-listra-preta-e-branca-e-short-preto/",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/conjunto-vinho111",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/kit-feminino-digital-preto/",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/vestido-feminino-preto-com-listra-branco-e-mostarda/",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/vestido-feminino-preto-com-listra-rosa/",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/conjunto-feminino-cropped-e-saia-longa/",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/vestido-feminino-longo-com-elastec/",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/vestido-marisa-preto-floral/",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/vestido-feminino-longo/?variant=588862917",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/conjunto-feminino-cropped-e-saia-com-listras-preto-e-azul/",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/macaquinho-feminino-preto/?variant=588819110",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/t-shirt-firt-i-need-coffe-preto",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/vestido-feminino-preto-com-listras/",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/vestido-feminino-preto-com-a-saia-listrada/",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/macaquinho-feminino-de-alcinha-vermelho-com-decote/",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/todas-os-produtos-roupas",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/kit-feminino-rose-pda-00041",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/kit-feminino-dourado-0082",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/kit-feminino-rose-00044",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/maps?q",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/macaquinho-feminino-vinho/?variant=588819808",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/kit-feminino-preto-00067",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/que-o-azedume-alheio-no-impea-de-espalhar-douras-por-ai---laranja",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/vestido-feminino-preto-com-listra-mostarda-e-branco/",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/vestido-vt-00013-c562-c121-c185-c481-c772-c507-c341-c897",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/depoimentos-e-referencias-de-alguns-clientes/",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/kit-feminino-preto-00052",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/vestido-feminino-rosa-com-detalhe-preto-e-branco/?variant=588866324",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/be-the-boss-colorido---branco",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/vestido-feminino-recorte-preto-e-branco/",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/kit-feminino-azulmarinho-00056",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/vestido-feminino-longo-com-detalhes/",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/vestido-feminino-longo-com-detalhes/?variant=588863358",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/vestido-vt-00013-c562-c121",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/conjunto-feminino-cropped-preto-e-short-listrado/",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/kit-feminino-rosa-00066",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/acredita-que-acontece---preto",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/conjunto-vermelho1030",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/vestido-vt-00033",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/conjunto-feminino-cropped-listrado-e-short-preto2/",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/kit-feminino-dourado-00059",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/escova-magica-brinde/",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/kit-feminino-dourado-00009",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/pacman---preto",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/kit-feminino-dourado-pda-00061",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/vestido-preto-estampado1010",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/vestido-feminino-manga-3-4-preto-e-branco/",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/kit-feminino-prata-00042",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/kit-feminino-branco-00020",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/macaquinho-feminino-de-alcinha-vermelho-com-decote/?variant=588818988",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/kit-feminino-dourado-0089",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/conjunto-feminino-cropped-e-saia-com-listras-azul-marinho-e-pink/",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/kit-feminino-rose-00047",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/vestido-feminino-preto-e-branco/",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/vestido-marisa-preto-floral/?variant=588692304",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/t-shirt-que-o-azedume-alheio-laranja/",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/t-shirt-que-o-azedume-alheio-laranja/?variant=588690939",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/conjunto-vinho126",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/kit-feminino-digital-preto-1/",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/vestido-branco-floral-vt1023",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/conjunto-lilas1037",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/para-calculo-de-taxas",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/kit-feminino-dourado-8/",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/cadastro",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/conjunto-feminino-cropped-e-saia-longa/",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/macaquinho-feminino-de-alcinha-vermelho-com-decote/",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/vestido-feminino-vermelho-com-amarracao/",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/conjunto-feminino-cropped-manga-longa-e-saia-preto/?variant=588667458",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/kit-feminino-preto/",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/vestido-52",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/conjunto-feminino-cropped-e-calca/?variant=588665452",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/conjutos/?Cor=Lil%C3%A1s",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/kit-feminino-rose-4/",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/conjunto-feminino-cropped-nula-manga-e-saia-vermelho/",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/macaquinho-azul-floral-16",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/conjunto-feminino-cropped-manga-longa-e-saia-vermelho/?variant=588667644",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/vestido-feminino-longo/?variant=588862920",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/short-army",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/vestido-feminino-rose/",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/vestido-feminino-vermelho-com-amarracao/",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/kit-feminino-dourado-0092",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/macacao-feminino-longo-acinturado-e-abertura-na-perna/?variant=588817972",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/conjunto-azul-estampado-cropped-short18",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/vestido-feminino-manga-3-4-preto-e-branco/",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/conjunto-regata-listrada-short-preto-cj77",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/vestido-feminino-preto-e-branco1/",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/kit-feminino-rose/",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/vestido-mariana-pretox/?variant=588692020",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/kit-feminino-digital-verde/",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/todos-os-produtos-roupas",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/todos-os-produtos-roupas/",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/vestido-feminino-midi-ombro-a-ombro/",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/vestido-feminino-midi-ombro-a-ombro/?variant=588863967",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/vestido-feminino-preto-e-rosa/",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/conjunto-feminina-cropped-preto-e-short-rosa/",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/vestido-feminino-preto-e-branco/",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/vestido-feminino-de-manga-longa-preto-e-branco/",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/perguntas-frequentes/",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/wonder-woman-power---preto",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/conjunto-cropped-rosa-short-branco-estampado24",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/conjutos/?Cor=Preto",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/contato/",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/contato/",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/conjunto-feminino-cropped-de-alcinha-e-saia-longa/",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/vestido-feminino-longo-com-elastec/?variant=588863485",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/kit-feminino-dourado/",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/t-shirt-pacman-preto/",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/conjunto-feminino-cropped-e-short-preto-com-detalhe-vemelho/",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/conjunto-feminino-cropped-e-short-preto-com-detalhe-vemelho/?variant=588668115",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/body-elastico-estampado",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/macaquinho-feminino-de-alcinha-pink-com-detalhe-preto/",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/macaquinho-feminino-de-alcinha-pink-com-detalhe-preto/?variant=588818336",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/conjunto-feminino-cropped-e-saia-longa/?variant=588666229",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/conjunto-feminino-cropped-e-saia-longa/?variant=588666231",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/vestido-feminino-longo-de-alcinha/",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/vestido-feminino-preto2/",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/vestido-fernanda-preto-floral/",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/vestido-feminino-preto-com-listra-branco-e-mostarda/",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/kit-feminino-rose-0090",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/kit-feminino-rose-5/",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/vestido-solange-mostarda-floral/",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/vestido-feminino-vermelho-com-amarracao/?variant=588866929",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/t-shirt-que-o-azedume-alheio-laranja/?variant=588690936",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/macaquinho-feminino-de-alcinha-preto-e-short-saia-rosa/?variant=588818868",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/vestido-feminino-longo1/?variant=588863126",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/kit-feminino-dourado-3/",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/kit-feminino-dourado-1/",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/vestido-feminino-midi-ombro-a-ombro/?variant=588863968",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/conjunto-feminina-cropped-preto-e-short-rosa/?variant=588688119",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/conjunto-cropped-azul-de-bolinha-saia-vinho27",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/conjunto-feminino-cropped-e-saia-com-listras-preto-e-azul/",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/vestido-feminino-longo-com-elastec/?variant=588863483",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/conjunto-feminino-cropped-e-saia-longa/?variant=588666236",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/vestido-feminino-longo-de-alcinha/?variant=588863669",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/vestido-fernanda-preto-floral/?variant=588692166",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/kit-feminino-rose-3/",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/vestido-fernanda-preto-floral/",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/macaquinho-preto-23",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/macacao-feminino-longo-acinturado-e-abertura-na-perna/?variant=588817973",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/kit-feminino-dourado-2/",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/todos-os-produtos-roupas/",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/vestido-feminino-de-alcinha-preto1/",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/vestido-feminino-rose/",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/kit-feminino-dourado-5/",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/saida-de-praia-regata-furao",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/t-shirt-pacman-preto/",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/vestido-feminino-preto-e-branco/?variant=588865454",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/t-shirt-pacman-preto/?variant=588690833",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/kit-feminino-rose-1/",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/conjunto-feminino-cropped-listrado-e-short-preto1/?variant=588669083",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/vestido-feminino-longo-com-elastec/?variant=588863486",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/vestido-feminino-longo1/?variant=588863129",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/vestido-feminino-preto-com-listras1/",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/vestido-feminino-longo-com-detalhes/?variant=588863359",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/macacao-feminino-longo-acinturado-e-abertura-na-perna/?variant=588817974",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/conjunto-feminino-cropped-e-saia-longa1/?variant=588666642",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/vestido-feminino-preto/",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/vestido-feminino-preto-com-listra-branco-e-mostarda/?variant=588864781",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/br/produtos/",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/macaquinho-feminino-vinho/",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/conjunto-142",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/vestido-solange-mostarda-floral/?variant=588691945",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/vestido-feminino-longo-de-alcinha/?variant=588863671",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/vestido-feminino-preto-e-rosa/",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/t-shirt-bob-esponja-e-patrick-laranja/?variant=588690419",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/escova-magica-brinde/",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/kit-feminino-dourado-00069",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/baby-look-letras",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/kit-feminino-digital-preto-1/",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/macaquinho-106",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/macaquinho-preto-24",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/t-shirt-pacman-preto/?variant=588690838",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/vestido-feminino-preto1/",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/vestido-feminino-preto/?variant=588864180",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/vestido-preto1003",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/macaquinho-preto41",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/vestido-feminino-longo1/?variant=588863123",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/vestido-feminino-longo-de-alcinha/?variant=588863666",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/conjunto-feminino-cropped-e-saia-longa/?variant=588666226",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/macaquinho-feminino-de-alcinha-preto-com-detalhe-azul/",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/conjunto-feminino-cropped-e-saia-longa/?variant=588666233",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/conjunto-feminino-cropped-nula-manga-e-saia-vermelho/?variant=588669887",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/vestido-feminino-preto-e-rosa/?variant=588865855",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/vestido-feminino-longo-com-detalhes/?variant=588863361",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/macaquinho-vermelho-estampado53",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/macaquinho-feminino-preto-e-short-vermelho/?variant=588819520",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/vestido-feminino-longo1/?variant=588863125",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/conjunto-floral-preto-cropped-short101",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/vestido-feminino-preto-com-listras/?variant=588865162",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/vestido-feminino-preto/",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/macacao-feminino-longo-acinturado-e-abertura-na-perna/?variant=588817971",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/conjunto-feminino-cropped-listrado-e-short-preto/?variant=588668813",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/produtos/vestido-feminino-rose/?variant=588866514",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/conjunto-vinho-cropped-saia-com-detalhe-na-barra93",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/vestido-reto-viscose",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/conjunto-estampado-de-alcinha-0029",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/seja-grata-alto-relevo---verde-agua",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/blusa-podrinha-01",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/vestido-vermelho-vt0016",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/macaquinho-mostarda1003",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/calca-jogger",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/vestido-preto1017",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/SM/Unsupported",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/called",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/blog",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/conjunto-166",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/conjunto-verde-cj1022",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/new-york-alto-relevo---verde-agua",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/conjunto-preto-e-rosa1047",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/Classic",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/vestido-vermelho-e-branco1027",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/macaquinho-99",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/conjunto-preto-estampado-cropped-short26",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/conjunto-azul-royal-cropped-short72",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/vestido-vermelho1042",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/vestido-preto1026",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/vestido-vermelho1020",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/conjunto1015",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/conjunto-azul-marinho-estampado-cropped-short-40",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/vestido-azul-marinho-1002",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/todos-os-conjuntos-macaquinhos-e-vestidos",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/conjunto-preto-cj1015",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/baby-look-lado-bom-das-coisas-roxo",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/vestido-amarelo1021",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/Prazo de Envios e Entregas",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/desert-vibes-arizona---laranja",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/conjunto-preto-cj1019",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/conjunto-azul-marinho-kimono-e-cropped-cj1017",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/vestido-48",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/conjunto-136",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/vestido-branco-estampado-com-bojo-3",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/blusas/",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/t-shirt-margarida-rose",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/depoimentos-e-referencias-de-alguns-clientes/",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/regata-peplum-ciganinha",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/conjunto-cropped-caramelo-short-estampado-tiara73",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/vestido-lane",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/conjunto-verde-estampada-cropped-short-34",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/index.php?route=product/category&path=8",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/t-shirt-snoop-rosa",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/kit-feminino-dourado-00064",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/vestido-mostarda1001",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/kit-feminino-dourado-00068",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/depoimentos-de-clientes/",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/conjunto1022",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/formas-de-pagamento",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/vestido-amarelo1025",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/conjunto-preto1024",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/conjunto-estampado",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/vestido-preto1008",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/conjunto1025",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/conjunto-preto-e-mostarda1048",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/vestido-lils1038",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/conjunto-amarelo1002",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/vestido-50",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/conjunto-rose1010",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/conjunto-preto1011",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/conjunto-rose1035",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/saia-plissada-longa-lisa",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/calca-disco",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/vestido-rose-e-preto1049",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/conjunto-estampado1042",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/conjunto-preto1004",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/regata-renda",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/conjunto-158",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/body-cavado-estampado",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/calca-jogger",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/calca-jogger-xadrez",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/cinto-chanel",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/vestido-vermelho-vt0016",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/conjunto-149",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/body-renda",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/saia-plissada-longa-estampada",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/Unavailable",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/conjunto-preto1040",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/conjuntos",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/pages/pagamentos",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/conjunto-rose1028",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/t-shirt-ninguem-explica-deus-verde",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/conjunto-sandra",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/vestido-51",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/Module",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/kit-feminino-00077",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/kit-feminino-xadrez-00029",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/conjunto-bege-kimono-e-cropped-cj1024",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/conjunto-162",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/pages/faq",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/maintenance/index",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/vestido-32",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/conjunto-pink1003",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/pages/pagamentos",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/no-tenho-medo-de-mudar-bodado---rosa-bebe",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/vestido-preto-vt0005",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/vestido-preto-vt0005",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/familia-do-snoopy---off-white",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/conjunto-preto1007",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/conjunto-preto-estampado-com-bojo112",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/conjunto-169",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/saia-plissada-longa-estam-01",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/vestido-vitria",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/vestido-vitria",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/macaco-camille",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/conjunto-bruna",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/conjunto-bruna",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/conjunto-preto-e-mostarda1012",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/conjunto-preto-e-vermelho1014",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/conjunto-preto-cropped-de-laco-short85",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/pages/lancamentos",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/conjunto-161",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/vestido-mostarda1005",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/vestido-amarelo-e-branco1048",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/macaco-camille",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/conjunto-kimono-e-shorts",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/vestido-lane",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/pages/trocas",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/vestido-vinho22",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/ona---lils",
+    "destination": "/",
+    "type": 301
+  }
+],
     "public": "dist",
     "ignore": [
       "firebase.json",
