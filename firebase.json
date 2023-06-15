@@ -1752,11 +1752,6 @@
     "type": 301
   },
   {
-    "source": "/conjuntos",
-    "destination": "/",
-    "type": 301
-  },
-  {
     "source": "/pages/pagamentos",
     "destination": "/",
     "type": 301
