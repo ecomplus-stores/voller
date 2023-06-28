@@ -1752,11 +1752,6 @@
     "type": 301
   },
   {
-    "source": "/pages/pagamentos",
-    "destination": "/",
-    "type": 301
-  },
-  {
     "source": "/conjunto-rose1028",
     "destination": "/",
     "type": 301
@@ -1802,11 +1797,6 @@
     "type": 301
   },
   {
-    "source": "/pages/faq",
-    "destination": "/",
-    "type": 301
-  },
-  {
     "source": "/maintenance/index",
     "destination": "/",
     "type": 301
@@ -1818,11 +1808,6 @@
   },
   {
     "source": "/conjunto-pink1003",
-    "destination": "/",
-    "type": 301
-  },
-  {
-    "source": "/pages/pagamentos",
     "destination": "/",
     "type": 301
   },
@@ -1907,11 +1892,6 @@
     "type": 301
   },
   {
-    "source": "/pages/lancamentos",
-    "destination": "/",
-    "type": 301
-  },
-  {
     "source": "/conjunto-161",
     "destination": "/",
     "type": 301
@@ -1938,11 +1918,6 @@
   },
   {
     "source": "/vestido-lane",
-    "destination": "/",
-    "type": 301
-  },
-  {
-    "source": "/pages/trocas",
     "destination": "/",
     "type": 301
   },
