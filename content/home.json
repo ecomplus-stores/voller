@@ -84,6 +84,36 @@
       "type": "responsive-banner",
       "img": "/img/uploads/banners-mais-curtos-3840-1400-px-2-.jpg",
       "mobile_img": "/img/uploads/banners-mais-curtos-3840-1800-px-2-.jpg"
+    },
+    {
+      "type": "review-carousel",
+      "title": "Depoimentos",
+      "reviews": [
+        {
+          "nome": "Isabela Santos",
+          "cidade": "Belo Horizonte",
+          "imagem": "",
+          "texto": "EU AMEIII!Muito confortável, assim que chegou eu já usei! hahaha. Muito rápida a entrega é excelente atendimento do começo ao final!"
+        },
+        {
+          "nome": "Joana Moreira",
+          "cidade": "Salvador",
+          "imagem": "",
+          "texto": "Amei minha compra muito linda às peças 😍 Atendimento ótimo, estão de parabéns 👏🏼❤️"
+        },
+        {
+          "nome": "Ana",
+          "cidade": "São Paulo",
+          "imagem": "",
+          "texto": "Eu amei o atendimento, pessoal super atencioso e paciente, tiraram todas as minhas dúvidas! Foi perfeito, sem falar na qualidade das peças de vocês! Surpreendente!"
+        },
+        {
+          "nome": "Luisa",
+          "cidade": "Rio de Janeiro",
+          "imagem": "",
+          "texto": "Excelente blusa, ótimo preço e qualidade"
+        }
+      ]
     }
   ]
 }
