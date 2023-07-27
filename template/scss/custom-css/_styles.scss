@@ -278,6 +278,11 @@ display: none
 .glide__slide .embed-responsive {
   min-height: 600px !important;
 }
+@media(max-width: 576px) {
+  #search-bar {
+    display: flex !important;
+  }
+}
 .depoimentos.banner-wrapper .depoimento-box {
   margin: 0px auto;
 }

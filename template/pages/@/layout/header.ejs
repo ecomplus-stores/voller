@@ -204,7 +204,7 @@ const isCentralizedLogo = header.centralized_logo
         const searchColSize = !isCategoriesNavFull && categories.length ? '-3' : ''
         %>
         <div
-          class="d-block col-12 col-lg<%= searchColSize %>"
+          class="d-lg-block col-12 col-lg<%= searchColSize %> collapse show"
           id="search-bar"
         >
           <form
@@ -216,7 +216,7 @@ const isCentralizedLogo = header.centralized_logo
             <input
               type="search"
               name="term"
-              placeholder="O QUE VOCÊ QUER VESTIR HOJE?"
+              placeholder="<%= _.dictionary('searchProducts') %>"
               aria-label="<%= _.dictionary('searchProducts') %>"
               class="header__search-input form-control"
               id="search-input"
@@ -226,7 +226,7 @@ const isCentralizedLogo = header.centralized_logo
               class="header__search-btn"
               aria-label="<%= _.dictionary('searchProducts') %>"
             >
-              <i class="i-search"></i>
+              <i class="fas fa-search"></i>
             </button>
             <div id="instant-search">
               <!--
