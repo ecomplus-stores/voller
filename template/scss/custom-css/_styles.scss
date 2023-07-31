@@ -350,3 +350,7 @@ display: none
     min-height: 300px;
   }
 }
+#search-input:focus {
+  border: 1px solid #a5003c !important;
+  color: white !important;
+}
