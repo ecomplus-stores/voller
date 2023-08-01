@@ -7,7 +7,7 @@
   },
   "installments": {
     "show": true,
-    "text": "no Cartão de Crédito",
+    "text": "No Cartão de Crédito",
     "title": "EM ATÉ 3X SEM JUROS"
   },
   "exchange": {
@@ -17,7 +17,7 @@
   },
   "promo": {
     "show": true,
-    "text": "e preços baixos",
+    "text": "E preços baixos",
     "title": "PRONTA ENTREGA",
     "link": ""
   }
