@@ -23,6 +23,18 @@
       "type": "banners-grid",
       "banners": [
         {
+          "img": "/img/uploads/01.png"
+        },
+        {
+          "img": "/img/uploads/02.png"
+        },
+        {
+          "img": "/img/uploads/03.png"
+        },
+        {
+          "img": "/img/uploads/04.png"
+        },
+        {
           "img": "/img/uploads/conj.jpg",
           "link": "https://www.vollerloja.com.br/conjuntos"
         },
