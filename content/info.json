@@ -1,24 +1,24 @@
 {
   "shipping": {
     "show": true,
-    "text": "06 peças variadas",
-    "title": "COMECE COM POUCO",
+    "text": "Enviamos para todo o Brasil",
+    "title": "RECEBA EM CASA",
     "link": ""
   },
   "installments": {
     "show": true,
-    "text": "no Cartão",
-    "title": "PARCELE EM ATÉ 12x"
+    "text": "no Cartão de Crédito",
+    "title": "EM ATÉ 3X SEM JUROS"
   },
   "exchange": {
     "show": true,
-    "text": "nas suas vendas",
-    "title": "USE NOSSAS FOTOS"
+    "text": "Seus dados seguros",
+    "title": "LOJA 100% SEGURA"
   },
   "promo": {
-    "show": false,
-    "text": "06 peças variadas",
-    "title": "COMECE COM POUCO",
+    "show": true,
+    "text": "e preços baixos",
+    "title": "PRONTA ENTREGA",
     "link": ""
   }
 }
