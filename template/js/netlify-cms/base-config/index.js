@@ -11,12 +11,14 @@ export default options => {
     {
         label: "Grid de Avaliações",
         name: "review-carousel",
+        required: false,
         widget: "object",
         icon: "https://api.iconify.design/bi:grid.svg",
         fields: [
             {
                 label: "Avaliações",
                 name: "reviews",
+                required: false,
                 widget: "list",
                 fields: [
                     {
@@ -52,11 +54,13 @@ export default options => {
                 min: 0,
                 step: 1000,
                 default: 9000,
-                widget: 'number'
+                widget: 'number',
+                required: false
             },
             {
                 name: "title",
                 label: "Título da estante de depoimentos",
+                required: false,
                 widget: 'string'
             }
         ]
