@@ -12,6 +12,12 @@
           "end": "",
           "img": "/img/uploads/desktop-oficial-1-.jpg",
           "mobile_img": "/img/uploads/roupa-feminina-3-1-.jpg"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/frete-fixo-1920-612-px-.png",
+          "mobile_img": "/img/uploads/frete-fixo-1080-1080-px-.png"
         }
       ]
     },
@@ -29,10 +35,10 @@
           "img": "/img/uploads/calcas-shorts-e-saias.png"
         },
         {
-          "img": "/img/uploads/macaquinhos-e-macacoes.png"
+          "img": "/img/uploads/conjuntos.png"
         },
         {
-          "img": "/img/uploads/conjuntos.png"
+          "img": "/img/uploads/macaquinhos-e-macacoes.png"
         }
       ]
     },
