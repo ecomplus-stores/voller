@@ -87,15 +87,8 @@ if (mainCategories) {
             </button>
           <% } %>
           <%
-          const logo = _.settings.logo
-            ? { url: _.settings.logo, alt: _.settings.name }
-            : _.store.logo
             
-          if (logo && logo.url) {
-            const { width, height } = _.tryImageSize(logo.url)
-            %>
-            <img class="logo_menu_lateral" src="<%= logo.url %>">
-          <% } %>
+          <img class="logo_menu_lateral" src="/img/uploads/logo-voller.png">
 
           <div class="menu__list">
             <% categoryParents[slug].forEach((subcategory, index) => { %>
