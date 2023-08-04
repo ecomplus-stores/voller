@@ -29,16 +29,20 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/blusas-bodys-e-croppeds.png"
+          "img": "/img/uploads/blusas-bodys-e-croppeds.png",
+          "link": "https://www.vollerloja.com.br/blusas-bodys--croppeds"
         },
         {
-          "img": "/img/uploads/calcas-shorts-e-saias.png"
+          "img": "/img/uploads/calcas-shorts-e-saias.png",
+          "link": "https://www.vollerloja.com.br/calcas-shorts--saias"
         },
         {
-          "img": "/img/uploads/conjuntos.png"
+          "img": "/img/uploads/conjuntos.png",
+          "link": "https://www.vollerloja.com.br/conjuntos"
         },
         {
-          "img": "/img/uploads/macaquinhos-e-macacoes.png"
+          "img": "/img/uploads/macaquinhos-e-macacoes.png",
+          "link": "https://www.vollerloja.com.br/macaquinhos-e-macacoes"
         }
       ]
     },
