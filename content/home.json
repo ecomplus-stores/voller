@@ -19,6 +19,13 @@
           "img": "/img/uploads/banner-1920-612-.png",
           "link": "https://www.vollerloja.com.br/blusas-bodys--croppeds",
           "mobile_img": "/img/uploads/banner-1080-x-1080-px-.png"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/banner-1920-612-px-1-.png",
+          "link": "https://www.vollerloja.com.br/calcas-shorts--saias",
+          "mobile_img": "/img/uploads/1080x1080.png"
         }
       ]
     },
