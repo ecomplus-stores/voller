@@ -18,6 +18,13 @@
           "end": "",
           "img": "/img/uploads/frete-fixo-1920-612-px-.png",
           "mobile_img": "/img/uploads/frete-fixo-1080-1080-px-.png"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/banner-1920-612-.png",
+          "link": "https://www.vollerloja.com.br/blusas-bodys--croppeds",
+          "mobile_img": "/img/uploads/banner-1080-x-1080-px-.png"
         }
       ]
     },
