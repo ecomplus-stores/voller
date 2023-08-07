@@ -89,11 +89,6 @@
       "title": "Peças Mais Vendidas! "
     },
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/banners-mais-curtos-3840-1400-px-2-.jpg",
-      "mobile_img": "/img/uploads/banners-mais-curtos-3840-1800-px-2-.jpg"
-    },
-    {
       "type": "review-carousel",
       "title": "Depoimentos",
       "reviews": [
