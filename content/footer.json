@@ -1,27 +1,23 @@
 {
   "description": {
     "title": "Voller 💛",
-    "text": "Compre e Revenda Roupa Feminina no Atacado com qualidade e preço baixo.  Parcele em até 12x no cartão. Tenha um ótimo retorno financeiro."
+    "text": "Das últimas tendências às peças atemporais, encontre o look perfeito para cada ocasião. Explore agora e renove seu guarda-roupa com sofisticação e charme."
   },
   "links_1": {
     "list_pages": true,
     "title": "Informações",
     "list": [
       {
+        "text": "Referências e Depoimentos",
+        "url": "/pages/referencias-e-depoimentos"
+      },
+      {
         "text": "Prazo de Envios e Entregas",
         "url": "Prazo de Envios e Entregas"
       },
       {
-        "text": "Garantia dos Relógios e Cuidados",
-        "url": "/pages/garantia-dos-relogios-e-cuidados"
-      },
-      {
         "text": "Trocas e Devoluções",
         "url": "/pages/trocas"
-      },
-      {
-        "text": "Referências e Depoimentos",
-        "url": "/pages/referencias-e-depoimentos"
       },
       {
         "text": "Dúvidas Frequentes",
