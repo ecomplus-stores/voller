@@ -76,12 +76,9 @@
       "sort": "news"
     },
     {
-      "type": "collection-shelf",
-      "shuffle": true,
-      "limit": 12,
-      "page": 1,
-      "sort": "sales",
-      "title": "Peças Mais Vendidas! "
+      "type": "dynamic-showcase",
+      "load_more": true,
+      "sort": "news"
     },
     {
       "type": "review-carousel",
