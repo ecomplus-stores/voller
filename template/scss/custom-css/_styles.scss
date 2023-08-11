@@ -347,7 +347,7 @@ display: none
     color: var(--secondary);
   }
   .depoimento-box {
-    min-height: 300px;
+    min-height: 260px;
   }
 }
 #search-input:focus {
@@ -365,4 +365,8 @@ display: none
 } */
 .info-bar {
   box-shadow: unset !important;
+}
+.depoimento-box h5 {
+  font-size: 16px !important;
+  margin-top: 10px;
 }
