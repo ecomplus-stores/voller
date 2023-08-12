@@ -7,26 +7,6 @@
     "list_pages": true,
     "title": "Informações",
     "list": [
-      {
-        "text": "Referências e Depoimentos",
-        "url": "/pages/referencias-e-depoimentos"
-      },
-      {
-        "text": "Prazo de Envios e Entregas",
-        "url": "Prazo de Envios e Entregas"
-      },
-      {
-        "text": "Trocas e Devoluções",
-        "url": "/pages/trocas"
-      },
-      {
-        "text": "Formas de Pagamento",
-        "url": "/pages/pagamentos"
-      },
-      {
-        "text": "Política de Privacidade",
-        "url": "/pages/privacidade"
-      }
     ]
   },
   "links_2": {
