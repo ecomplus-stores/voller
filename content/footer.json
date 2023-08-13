@@ -4,9 +4,33 @@
     "text": "Das últimas tendências às peças atemporais, encontre o look perfeito para cada ocasião. Explore agora e renove seu guarda-roupa com sofisticação e charme."
   },
   "links_1": {
-    "list_pages": true,
+    "list_pages": false,
     "title": "Informações",
     "list": [
+      {
+        "text": "Depoimentos ✨",
+        "url": "https://www.vollerloja.com.br/pages/referencias-e-depoimentos"
+      },
+      {
+        "url": "https://www.vollerloja.com.br/pages/trocas",
+        "text": "Saiba como funciona nossas Trocas e Devoluções"
+      },
+      {
+        "text": "Entrega Rápida Via Motoboy (Para São Paulo)",
+        "url": "https://www.vollerloja.com.br/pages/entrega-rapida-via-motoboy"
+      },
+      {
+        "text": "Prazos e Envios - Tudo para Sua Comodidade!",
+        "url": "https://www.vollerloja.com.br/pages/prazos-e-envios-tudo-para-sua-comodidade"
+      },
+      {
+        "text": "Formas de Pagamento - Facilitando Sua Compra!",
+        "url": "https://www.vollerloja.com.br/pages/pagamentos"
+      },
+      {
+        "text": "Política de Privacidade - Sua Segurança é a Nossa Prioridade!",
+        "url": "https://www.vollerloja.com.br/pages/privacidade"
+      }
     ]
   },
   "links_2": {
