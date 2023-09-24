@@ -13,11 +13,13 @@
     "featured": [
       "/blusas-camisas-e-regatas?Blusas, Camisas & Regatas",
       "/croppeds--tops?Croppeds & Tops",
-      "/calcas-shorts--saias?Calças, Shorts & Saias",
-      "/conjuntos?Conjuntos",
+      "/calcas?Calças",
+      "/bodys?Bodys",
+      "/shorts-e-saias?Shorts & Saias",
       "/vestidos?Vestidos",
-      "/macaquinhos-e-macacoes?Macaquinhos & Macacões",
-      "/outono-inverno?Liquidação de Outono-Inverno"
+      "/conjuntos?Conjuntos",
+      "/outono-inverno?Liquidação de Outono-Inverno",
+      "/macaquinhos-e-macacoes?Macaquinhos & Macacões"
     ],
     "random": 0,
     "full_width": true
