@@ -394,7 +394,7 @@ display: none
     height: unset;
  }
   .product-item .product-card__pictures img, .product-card.search-engine__item .product-card__pictures img {
-    min-height: 250px;
+    max-height: 166px;
     object-fit: unset;
     width: auto;
  }
