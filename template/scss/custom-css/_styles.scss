@@ -380,8 +380,8 @@ display: none
     height: unset;
  }
   .product-item .product-card__pictures img, .product-card.search-engine__item .product-card__pictures img {
-    min-height: 380px;
-    object-fit: cover;
+    min-height: 350px;
+    object-fit: unset;
     width: auto;
  }
 }
@@ -394,8 +394,8 @@ display: none
     height: unset;
  }
   .product-item .product-card__pictures img, .product-card.search-engine__item .product-card__pictures img {
-    min-height: 300px;
-    object-fit: cover;
+    min-height: 250px;
+    object-fit: unset;
     width: auto;
  }
 }
