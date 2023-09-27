@@ -390,10 +390,10 @@ display: none
     height: 100%;
     padding: var(--spacer-2) 0;
  }
-  .product-item .product-card__pictures {
+  .product-item .product-card__pictures, .product-card.search-engine__item .product-card__pictures {
     height: unset;
  }
-  .product-item .product-card__pictures img {
+  .product-item .product-card__pictures img, .product-card.search-engine__item .product-card__pictures img {
     min-height: 300px;
     object-fit: cover;
     width: auto;
