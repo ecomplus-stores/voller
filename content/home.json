@@ -49,26 +49,6 @@
       ]
     },
     {
-      "type": "collection-shelf",
-      "shuffle": true,
-      "limit": 24,
-      "page": 1,
-      "collection_id": "64c924e65e606903707ba474:categories:Blusas, Bodys & Croppeds:/blusas-bodys--croppeds",
-      "sort": "sales",
-      "title": "Bodys, Blusas & Croppeds",
-      "link": "https://www.vollerloja.com.br/blusas-bodys--croppeds"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": true,
-      "limit": 24,
-      "page": 1,
-      "collection_id": "64c924895e606903707ba386:categories:Calças, Shorts & Saias:/calcas-shorts--saias",
-      "sort": "sales",
-      "title": "Calças, Shorts & Saias",
-      "link": "https://www.vollerloja.com.br/calcas-shorts--saias"
-    },
-    {
       "autoplay": 0,
       "page": 1,
       "title": "Algumas Novidades!  ❤️",
@@ -82,12 +62,73 @@
     {
       "type": "collection-shelf",
       "shuffle": true,
+      "limit": 24,
+      "page": 1,
+      "collection_id": "64c924e65e606903707ba474:categories:Blusas, Camisas & Regatas:/blusas-camisas-e-regatas",
+      "sort": "news",
+      "title": "Blusas, Regatas & Camisas 👚",
+      "link": "https://www.vollerloja.com.br/blusas-camisas-e-regatas"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "limit": 24,
+      "page": 1,
+      "collection_id": "650fad842cd6b659595aea37:categories:Bodys:/bodys",
+      "sort": "news",
+      "title": "Bodys 🩱",
+      "link": "https://www.vollerloja.com.br/bodys"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "limit": 24,
+      "page": 1,
+      "collection_id": "6500e25a2cd6b65959494b2a:categories:Croppeds & Tops:/croppeds--tops",
+      "sort": "news",
+      "title": "Croppeds & Tops 💥",
+      "link": "https://www.vollerloja.com.br/croppeds--tops"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "limit": 24,
+      "page": 1,
+      "collection_id": "64c924895e606903707ba386:categories:Calças:/calcas",
+      "sort": "news",
+      "title": "Calças 👖",
+      "link": "https://www.vollerloja.com.br/calcas"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "limit": 24,
+      "page": 1,
+      "collection_id": "650fad002cd6b659595ae9ce:categories:Shorts & Saias:/shorts-e-saias",
+      "link": "https://www.vollerloja.com.br/shorts-e-saias",
+      "title": "Shorts & Saias 🩳",
+      "sort": "news"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": true,
       "limit": "",
       "page": "",
-      "collection_id": "64371ff44bd2e929c1cd2be4:categories:Liquidação de Outono-Inverno ❄️:/outono-inverno",
+      "collection_id": "64371ff44bd2e929c1cd2be4:categories:Liquidação de Outono-Inverno:/outono-inverno",
       "sort": "sales",
       "title": "Liquidação de Outono-Inverno ❄️",
       "link": "/outono-inverno"
+    },
+    {
+      "page": 1,
+      "title": "Vestidos",
+      "shuffle": true,
+      "headless": false,
+      "type": "collection-shelf",
+      "link": "https://www.vollerloja.com.br/vestidos",
+      "limit": 24,
+      "collection_id": "6306c20a73321213f8567208:categories:Vestidos:/vestidos",
+      "sort": "news"
     },
     {
       "type": "review-carousel",
