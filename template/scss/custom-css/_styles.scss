@@ -391,7 +391,7 @@ display: none
     padding: var(--spacer-2) 0;
  }
   .product-item .product-card__pictures, .product-card.search-engine__item .product-card__pictures {
-    height: unset;
+    height: 200px;
  }
   .product-item .product-card__pictures img, .product-card.search-engine__item .product-card__pictures img {
     max-height: 200px;
